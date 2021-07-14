@@ -3,7 +3,7 @@
 ## Prerequisites:
 
 Create a CosmosDB Account of type SQL API and database/collection named Tweets
-Insert the data inside the folder Tweets to CosmosDB using the Data Migration Tool
+Insert the data inside the folder Tweets to CosmosDB using the [Data Migration Tool](https://docs.microsoft.com/en-us/azure/cosmos-db/import-data)
 
 
  ## Query 1 : Select All
