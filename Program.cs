@@ -12,7 +12,7 @@ namespace CosmosdbSqlApiQuickstart
         // The Azure Cosmos DB endpoint for running this sample.
         private static readonly string EndpointUri = "https://sajee-cosmos-notebooks.documents.azure.com:443/";
         // The primary key for the Azure Cosmos account.
-        private static readonly string PrimaryKey = "rRl01UctWdjMFbTTwajIYtX97CzxJBZjUozLq560tmOgVrY4uKzcwkhoRlSOfnQpCFv5F66dmHbZ65njPYFFxA==";
+        private static readonly string PrimaryKey = "==";
 
         // The Cosmos client instance
         private static CosmosClient cosmosClient;
